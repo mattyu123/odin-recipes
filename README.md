@@ -1,1 +1,2 @@
 # odin-recipes
+This is my take on the recipes project found on the Odin Project. I will use HTML, and later CSS to build and style my website. I am confident that with my current skillset, I will be able to create a very nice recipes website. 
